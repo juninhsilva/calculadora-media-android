@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Calculadora de Média</string>
     <string name="nota_1">Nota 1</string>
     <string name="nota_2">Nota 2</string>
     <string name="faltas">Faltas</string>
